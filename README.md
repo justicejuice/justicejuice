@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Timon
+- 👀 I'm interested in Java, Spring, Serverless, cloud native and a little bit react
+- 🌱 I'm currently learning React, AWS, Kubernetes
+- 
+- twitter: @TheJusticeJuice
